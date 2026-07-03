@@ -1,2 +1,2 @@
 # lion-box
-print("knjozxojisfiov")
+knjozxojisfiov
